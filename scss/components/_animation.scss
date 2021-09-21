@@ -12,3 +12,10 @@
         opacity:0
     }
 }
+
+#logo--img{
+    width:5rem;
+    height:5rem;
+    filter: brightness(0%) saturate(98%) invert(1);
+    // filter:opacity(0%);
+}
